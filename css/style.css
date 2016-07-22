@@ -1,0 +1,149 @@
+#logo{
+	height: 100px;
+	width: 90px;
+	margin:10px;
+}
+.encabezado{
+	background-color: black;
+}
+
+.menu{
+	color:white;
+	display: inline-block;
+	padding: 5px;
+	margin-top:40px;
+	font-family: Arial;
+}
+
+.dec{
+	color:white;
+
+}
+
+.section1{
+	background-color: #E6E6E6;
+	padding: 20px;
+}
+
+h2{
+	font-family: Arial;
+}
+h2>a {
+	text-decoration: none;
+	font-size: 15px;
+	color:#086A87;
+}
+
+.bloque1 {
+	margin-top: 25px;
+	height: 200px;
+	width: 200px;
+	border: 1px solid #6E6E6E;
+	padding: 2px;
+	background-color:white; 
+}
+
+.parsec{
+	color:#086A87;
+	font-size: 20px;
+	font-weight: bolder;
+	font-family: Arial;
+}
+
+.tamaño{
+	border: 1px solid #6E6E6E;
+	height: 115px;
+	width: 115px;
+	padding: 2px;
+}
+
+.section2{
+	margin-top: 50px;
+}
+
+.text{
+	font-family: Arial;
+	text-align: center;
+	color:#086A87;
+	margin-bottom: 20px;
+}
+
+.text2{
+	font-family: Arial;
+	margin-left: 10px;
+	color:#086A87;
+	margin-bottom: 20px;
+}
+
+.parrasi{
+	font-family: Arial;
+	font-size: 15px;
+	font-weight: bolder;
+}
+
+.cajas{
+	margin-bottom: 40px;
+}
+.linea{
+	width: 200px;
+	margin-bottom: 15px;
+}
+.asi{
+	text-decoration: none;
+	color:#086A87;
+	font-size: 14px;
+	font-family: Arial;
+}
+
+#tam{
+	font-size: 13px;
+	font-family: Arial;
+}
+
+.pequeña{
+	height: 12px;
+	width: 12px;
+}
+
+#footer{
+	background-color: #2E2E2E;
+	padding: 20px;
+}
+
+ul>li>a{
+	text-decoration: none;
+}
+
+.enlaces {
+	text-decoration: none;
+	color: #A4A4A4;
+	margin-left: 20px;
+}
+#lista{
+	font-size:13px;
+	margin-top: 5px;
+}
+
+#final{
+	text-align: center;
+	color:#A4A4A4;
+	font-family: Arial;
+	padding: 30px;
+	font-size: 10px;
+}
+
+.menu2{
+	color:white;
+	display: inline-block;
+	padding: 9px;
+	margin-top:20px;
+	font-family: Arial;
+}
+
+#desc{
+	color:white;
+	
+	padding: 9px;
+	margin-top:20px;
+	font-family: Arial;
+}
